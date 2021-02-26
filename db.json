@@ -1,0 +1,38 @@
+{
+  "passengers": [
+    {
+      "fullname": "Bret May",
+      "id": 1,
+      "checkedIn": true,
+      "baggage": "none",
+      "checkInDate": 1490742000000
+    },
+    {
+      "id": 2,
+      "fullname": "Chuck",
+      "checkedIn": false,
+      "baggage": ""
+    },
+    {
+      "id": 3,
+      "fullname": "Eddie",
+      "checkedIn": true,
+      "checkInDate": 1490742000000,
+      "baggage": ""
+    },
+    {
+      "id": 4,
+      "fullname": "Mike",
+      "checkedIn": true,
+      "checkInDate": 1490742000000,
+      "baggage": ""
+    },
+    {
+      "id": 5,
+      "fullname": "Troy",
+      "checkedIn": true,
+      "checkInDate": 1490742000000,
+      "baggage": ""
+    }
+  ]
+}
